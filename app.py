@@ -24,3 +24,13 @@ bubbleSort(arr)
 print("Sorted array is:")
 for i in range(len(arr)):
     print("%d" % arr[i]),
+
+### R E S U L T ###
+#Sorted array is:
+# 11
+# 12
+# 22
+# 25
+# 34
+# 64
+# 90
